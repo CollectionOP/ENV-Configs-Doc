@@ -33,13 +33,13 @@ brew install --cask hyper
 
 ### CORE COMMANDS
 
-| Key/Command              | Description                               |
-| ------------------------ | ----------------------------------------- |
-| cd <folder>              | Change directory e.g. `cd Desktop`        |
-| ls                       | List directory contents                   |
-| reset                    | Resets the terminal display               |
-| pwd                      | Display path of current working directory |
-| mkdir <name>             | Create new directory                      |
-| rm <file>                | Remove/Delete                             |
-| rm -r <directory>        | Remove/Delete directory                   |
-| mv [file] [new filename] | Move/Rename, e.g. `mv file.txt file1.txt` |
+| Key/Command                | Description                               |
+| -------------------------- | ----------------------------------------- |
+| `cd` <folder>              | Change directory e.g. `cd Desktop`        |
+| `ls`                       | List directory contents                   |
+| `reset`                    | Resets the terminal display               |
+| `pwd`                      | Display path of current working directory |
+| `mkdir` <name>             | Create new directory                      |
+| `rm` <file>                | Remove/Delete                             |
+| `rm` -r <directory>        | Remove/Delete directory                   |
+| `mv` [file] [new filename] | Move/Rename, e.g. `mv file.txt file1.txt` |
